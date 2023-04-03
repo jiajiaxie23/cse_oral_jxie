@@ -1,0 +1,1 @@
+python main.py -xi 2 -v 5000 -re 0.30 -p /home/jxie315/solar_analysis/python-analysis/output/mixNegBino_result/ 
