@@ -1,5 +1,5 @@
 # cse_oral_jxie
-'''bash
+'''
 ├── configs.yaml
 ├── exper.py
 ├── main.py
